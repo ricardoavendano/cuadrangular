@@ -2,7 +2,7 @@
 Ricardo Avendaño Casas
 
 Para ejecutar el proyecto se deben realizar los siguientes pasos
-1. descargar fuente de github: git clone 
+1. descargar fuente de github: git clone https://github.com/ricardoavendano/cuadrangular.git
 2. ir al directorio donde se encuentra el fuente y crear jar: mvn clean install (se crea la carpeta target)
 3. ir al directorio donde se encuentra el fuente y dirigirse a la carpeta target; por linea de comandos ejecutar jar: java -jar cuadrangular-0.0.1-SNAPSHOT.jar
 4. La aplicacion ya se encuentra desplegada localmente en la url (http://localhost:8081)
@@ -63,3 +63,5 @@ Para ejecutar el proyecto se deben realizar los siguientes pasos
 	Tabla: EQUIPO
 7. Uso de Swagger
 	http://localhost:8081/cuadrangular/swagger-ui.html#/
+8. Descargar cuadrangular front 
+	https://github.com/ricardoavendano/cuadrangularFront
